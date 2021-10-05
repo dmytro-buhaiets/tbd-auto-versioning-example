@@ -11,4 +11,4 @@ jobs:
     steps:
       - env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        uses: zytara/tbd-auto-versioning@v1.0
+        uses: dmytro-buhaiets/tbd-auto-versioning@v1.0
